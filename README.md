@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+ProductTest
+Pagina detalle de producto desarrollada en react Js
+
+Para ejecutar el proyecto descargalo y ejecuta npm install luego npm start
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
