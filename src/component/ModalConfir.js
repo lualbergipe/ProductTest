@@ -20,6 +20,7 @@ export default function confirmarPedido(colorSelect, sizeSeclect, total, cantida
     Swal.fire({text:'ups... you must choose your size and color ',  confirmButtonColor:'#000'})
   }else{
     Swal.fire({
+      title:'selected variant.',
       text: 'Add to cart',
       html:
      ' <table class="table table-light">'+

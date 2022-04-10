@@ -231,6 +231,7 @@ a {
     color: #000;
     border-radius: 50px;
     background-color: transparent;
+    min-width: 100px;
 }
 .totalPrice{
     font-size: 15px;
